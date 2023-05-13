@@ -1,0 +1,31 @@
+@use '../assets' as a;
+
+.custom-shape-divider-top-1673719581 {
+	// position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	line-height: 0;
+	margin-bottom: 10rem;
+}
+
+.custom-shape-divider-top-1673719581 svg {
+	position: relative;
+	display: block;
+	width: calc(140% + 1.3px);
+	height: 80px;
+}
+
+.custom-shape-divider-top-1673719581 .shape-fill {
+	fill: #dcd6d0;
+}
+
+@media screen and (min-width: 768px) {
+	.custom-shape-divider-top-1673719581 svg {
+		position: relative;
+		display: block;
+		width: calc(106% + 1.3px);
+		height: 175px;
+	}
+}

@@ -1,0 +1,62 @@
+// @font-face {
+// 	font-family: 'Summit';
+// 	src: url('../../fonts/High\ Summit.otf');
+// 	src: url('../../fonts/High\ Summit.ttf') format('truetype');
+// 	font-weight: normal;
+// 	font-style: normal;
+// 	font-display: swap;
+// }
+
+// $Archivo: 'Archivo Black', sans-serif;
+// $Julius: 'Julius Sans One', sans-serif;
+.smltxt {
+	font-size: 14px;
+}
+
+body h1,
+body h2 {
+	font-family: 'Libre Bodoni', sans-serif;
+	line-height: 1.5;
+	text-align: left;
+}
+body h1 {
+	font-size: 68px;
+}
+body h2 {
+	font-size: 57px;
+}
+
+body p,
+body label,
+body input,
+body a,
+body h3,
+body li {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 21px;
+	line-height: 1.6;
+	text-align: left;
+}
+
+body li:hover {
+	color: #131313;
+}
+// p.m-w65 {
+// 	max-width: 65rem;
+// }
+
+.errors {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.4rem;
+	padding-top: 0.5rem;
+}
+
+.inner-container {
+	margin: 8rem 1.6rem 0rem;
+	max-width: 100rem;
+	margin: 0 auto;
+}
+
+body a:visited {
+	color: blue;
+}

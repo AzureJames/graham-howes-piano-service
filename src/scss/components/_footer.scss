@@ -1,0 +1,48 @@
+@use '../assets' as a;
+
+body footer {
+	background-color: a.$off-white;
+	margin-top: 8rem;
+	padding-inline: .5rem;
+
+	.main-footer {
+		padding-top: 2rem;
+		padding-bottom: 6rem;
+		.footer-two {
+			.logo img {
+				height: 9rem;
+			}
+		}
+	}
+
+	.inner-container {
+		max-width: 140rem;
+	}
+
+	.secondary-footer {
+		width: 100%;
+	}
+
+	@media only screen and (min-width: 768px) {
+		display: flex;
+		flex-wrap: wrap;
+
+		.main-footer {
+			width: 100%;
+			display: flex;
+			justify-content: space-between;
+
+			.footer-one {
+				text-align: left;
+			}
+
+			.footer-two {
+				text-align: right;
+			}
+		}
+
+		.secondary-footer {
+			width: 100%;
+		}
+	}
+}
