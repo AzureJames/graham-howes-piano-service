@@ -33,11 +33,11 @@ function Navbar(props) {
 								1031s
 							</Link>
 						</li> */}
-						<li className='nav-item'>
+						{/* <li className='nav-item'>
 							<Link to='/contact' onClick={closeMobileMenu}>
 								Contact
 							</Link>
-						</li>
+						</li> */}
 					</ul>
 				</div>
 				<div

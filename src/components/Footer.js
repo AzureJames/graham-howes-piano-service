@@ -15,16 +15,17 @@ const Footer = () => {
 					<div className='footer-one'>
 						<div>
 							{/* <h3>Address</h3> */}
-							<p>address</p>
-							<p>address</p>
+							<p>Graham Howes Piano Service</p>
+							<p>6869 Kimberly Lane
+Derby, NY 14047</p>
 						</div>
 						<div>
 							<p>
-								<a href='tel:7'>7</a>
+								<a href='tel:716-562-7138'>(716) 562-7138</a>
 							</p>
-							<p>
+							{/* <p>
 								<a href='mailto:1@gmail.com'>1@gmail.com</a>
-							</p>
+							</p> */}
 							<p>Web design by <a href='https://azurejames.com/portfolio/'>Azure James</a></p>
 						</div>
 						{/* <ul>
@@ -42,13 +43,7 @@ const Footer = () => {
 								<img src={Logo} alt='Placeholder logo' height={50} width={80} />
 							</a>
 						</div>
-					</div>
-					{/* <div className='footer-two' style={{marginTop: '20px'}}>
-						<q style={{fontSize: '16px', paddingBlock: '1rem', display: 'block'}}>A society grows great when old men plant trees in whose shade they shall never sit.</q><cite style={{fontSize: '16px', paddingBlock: '1rem'}}> -Greek Proverb</cite>
-						<h3>Disclaimer</h3>
-						<p className='smltxt'>Intuit, QuickBooks, and QuickBooks ProAdvisor are registered trademarks of Intuit Inc</p>
-						<p className='smltxt'>Used with permission under the QuickBooks ProAdvisor Agreement</p>						
-					</div> */}
+					</div>	
 				</div>
 
 				{/* <div className='secondary-footer'>
