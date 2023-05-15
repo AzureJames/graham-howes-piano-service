@@ -57,14 +57,14 @@ function Home() {
 			CURVY BANNER */}
 			<DevBanner
 				title='Alternate About'
-				tagline='Educational/life/accolades/philosophy'
-				tagline2='Tagline here'
+				tagline='(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc, and a Steinway Trained Technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.'
+				tagline2=''
 			></DevBanner>
 
 				<h2 className='off-white'>About</h2>
 				<img src={Placeholder} alt='piano' style={{maxWidth: '50rem'}}></img>
 				<p className='off-white m-w65' style={{marginInline: '1rem', marginBottom: '2rem'}}>
-			    	bio pic.Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc. and a Steinway Trained Technician. Graham Howes Piano Service specializes in... philosophy etc
+			    	(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc, and a Steinway Trained Technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.
 				</p> 
 				<div className='flex1200'>
 					<a href="#" className='btn--primary'>Facebook</a>
