@@ -17,7 +17,7 @@ export default function Card({index, title, body, body2}) {
     <div className='flex'>
         <div className='bannercard' key={index} > 
             <div className='cardtop'>
-                <h2 className='h2two'>{title}</h2>
+                <h1 className='h2two'>{title}</h1>
             </div>
             
 
@@ -239,7 +239,7 @@ export default function Card({index, title, body, body2}) {
                 {/* <img src={pic} alt="hello" width={128} height={128}/> */}
                 <ul>
                     <li>
-                        <p>{body}</p>
+                        <p className='large' style={{textAlign:'center'}}>{body}</p>
                         <p>{body2}</p>
                     </li>
                 </ul>
