@@ -38,7 +38,7 @@ function Home() {
 			<CurvySection title="Keep it sounding beautiful!" tagline='Ideally, pianos should be tuned two times per year.'></CurvySection>
 			<div className='inner-container' style={{marginBottom: '3rem'}}>
 
-			{/* <div className='tag-list'> 
+			 <div className='tag-list'> 
 			{ [...new Array(3)].map((_, i) => (
 				<InfiniteLoopSlider key={i} duration={Math.floor(Math.random() * (10000)) + 10000 } reverse={i % 2}>
 				{ shuffle(['♬', '♪', '♩', '♭', '♮', '♩', '♬', '♪', '♬', '♪', '♩', '♭', '♮', '♩', '♬', '♪', '♭', '♮', '♩', '♬', '♪']).slice(0, 29).map(tag => (
@@ -47,7 +47,7 @@ function Home() {
 				</InfiniteLoopSlider>
 				)) }
 			 <div className='fade'/>
-			</div> */}
+			</div> 
 
 
 
