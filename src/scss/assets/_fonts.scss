@@ -19,10 +19,19 @@ body h2 {
 	line-height: 1.5;
 	text-align: left;
 }
+
 body h1 {
-	font-size: 81px;
+	font-size: 62px;
 	color: #161615;
 }
+
+@media screen and (min-width: 768px) {
+	body h1 {
+		font-size: 81px;
+		color: #161615;
+	}
+}
+
 body h2 {
 	font-size: 57px;
 }
