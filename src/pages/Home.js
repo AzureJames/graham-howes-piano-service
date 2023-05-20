@@ -129,7 +129,7 @@ function Home() {
 			<div className='flex1200'>
 				<CardList
 					index=''
-					title='Employment:'
+					title='Employment'
 					body=""
 					body2=''
 					ull='-- Hamburg Music Center'
