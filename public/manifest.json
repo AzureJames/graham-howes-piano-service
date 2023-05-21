@@ -3,9 +3,9 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "piano.svg",
+      "src": "pianopng.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg"
+      "type": "image/png"
     },
     {
       "src": "%PUBLIC_URL%/pexels-bryan-geraldo-586415.jpg",
