@@ -35,10 +35,10 @@ function Home() {
 			    </div> */}
 			</div>
 
-			<CurvySection title="Keep it sounding beautiful!" tagline='Ideally, pianos should be tuned two times per year.'></CurvySection>
+			<CurvySection title="Keep Your Piano Sounding Beautiful!" tagline='Regular Maintenance is the Key.'></CurvySection>
 			<div className='inner-container' style={{marginBottom: '3rem'}}>
 
-			 <div className='tag-list'> 
+			 {/* <div className='tag-list'> 
 			{ [...new Array(3)].map((_, i) => (
 				<InfiniteLoopSlider key={i} duration={Math.floor(Math.random() * (10000)) + 10000 } reverse={i % 2}>
 				{ shuffle(['♬', '♪', '♩', '♭', '♮', '♩', '♬', '♪', '♬', '♪', '♩', '♭', '♮', '♩', '♬', '♪', '♭', '♮', '♩', '♬', '♪']).slice(0, 29).map(tag => (
@@ -47,11 +47,11 @@ function Home() {
 				</InfiniteLoopSlider>
 				)) }
 			 <div className='fade'/>
-			</div> 
+			</div>  */}
 
 
 
-				{/* <a href='http://eepurl.com/ioFNzc' className='btn btn--primary'>Subscribe</a> */}
+				{/* <a href='http://eepurl.com/ioFNzc' className='btn btn-primary'>Subscribe</a> */}
 
 			{/* HERO BANNER FROM BLC??
 			CURVY BANNER */}
@@ -67,8 +67,8 @@ function Home() {
 			    	(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc, and a Steinway Trained Technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.
 				</p>  */}
 				<div className='flex1200'>
-					<a href="#" className='btn--primary'>My Facebook</a>
-					<a href="#" className='btn--primary'>Piano Technician's Guild</a>
+					<a href="https://www.facebook.com/profile.php?id=100063209591685" className='btn-primary'>Facebook Page</a>
+					<a href="https://www.ptg.org/home" className='btn-primary'>Piano Technician's Guild</a>
 				</div>
 			</div>
 
@@ -132,10 +132,10 @@ function Home() {
 					title='Employment'
 					body=""
 					body2=''
-					ull='-- Hamburg Music Center'
-					ull2='-- Jordan Kitt’s Music (Washington DC)'
-					ull3='-- Peabody Institute (Baltimore MD)'
-					ull4='-- Denton, Cottier and Daniels'
+					ull='- Hamburg Music Center'
+					ull2='- Jordan Kitt’s Music (Washington DC)'
+					ull3='- Peabody Institute (Baltimore MD)'
+					ull4='- Denton, Cottier and Daniels'
 					oll=''
 					oll2=''
 				></CardList>
@@ -144,10 +144,11 @@ function Home() {
 					title=''
 					body=""
 					body2=''
-					ull='-- Shea’s Buffalo'
-					ull2='-- Buffalo Philharmonic'
-					ull3='-- Phase Recording Studio (Washinton DC)'
-					ull4='-- Audio Magic Recording Studio'
+					ull='- Shea’s Buffalo'
+					ull2='- Buffalo Philharmonic'
+					ull3='- Phase Recording Studio (Washinton DC)'
+					ull4='- Audio Magic Recording Studio'
+					ull5='- Keppler Music Center (Owner)'
 					oll=''
 					oll2=''
 				></CardList>
@@ -156,11 +157,11 @@ function Home() {
 					title=''
 					body=""
 					body2=''	
-					ull2='-- Buffalo State University'
-					ull3='-- SUNY at Fredonia'
-					ull4='-- Hamburg Central Schools'
-					ull5='-- West Seneca Central Schools'
-					ull6='-- Numerous local (WNY) Churches'
+					ull2='- Buffalo State University'
+					ull3='- SUNY at Fredonia'
+					ull4='- Hamburg Central Schools'
+					ull5='- West Seneca Central Schools'
+					ull6='- Numerous local (WNY) Churches'
 					oll=''
 					oll2=''
 				></CardList>

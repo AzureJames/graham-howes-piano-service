@@ -16,12 +16,13 @@ const Footer = () => {
 						<div>
 							{/* <h3>Address</h3> */}
 							<p>Graham Howes Piano Service</p>
-							<p>6869 Kimberly Lane
-Derby, NY 14047</p>
+							<p>Derby, NY</p> {/*6869 Kimberly Lane
+Derby, NY 14047 */}
 						</div>
 						<div>
 							<p>
-								<a href='tel:716-562-7138'>(716) 562-7138</a>
+								<a href='tel:+7165627138'>Phone: (716) 562-7138</a>
+								<a href='tel:+7168169480'>Cell: (716) 816-9480</a>
 							</p>
 							{/* <p>
 								<a href='mailto:1@gmail.com'>1@gmail.com</a>
