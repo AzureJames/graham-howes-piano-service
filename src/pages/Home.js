@@ -67,8 +67,8 @@ function Home() {
 			    	(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc, and a Steinway Trained Technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.
 				</p>  */}
 				<div className='flex1200'>
-					<a href="https://www.facebook.com/profile.php?id=100063209591685" className='btn--primary'>Facebook Page</a>
-					<a href="https://www.ptg.org/home" className='btn--primary'>Piano Technician's Guild</a>
+					<a href="https://www.facebook.com/profile.php?id=100063209591685" className='btn--primary' style={{color: "navy"}}>Facebook Page</a>
+					<a href="https://www.ptg.org/home" className='btn--primary' style={{color: "navy"}}>Piano Technician's Guild</a>
 				</div>
 			</div>
 
