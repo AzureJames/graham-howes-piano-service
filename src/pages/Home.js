@@ -71,11 +71,13 @@ function Home() {
 					Facebook Page <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
 					<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
 					</svg></a>
-					<a href="https://www.ptg.org/home" className='btn--primary' style={{color: "navy"}}>Piano Technician's Guild <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-music-note-beamed" viewBox="0 0 16 16">
+					 <a href="https://www.ptg.org/home" className='btn--primary' style={{color: "navy"}}>Piano Technician's Guild {/*<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-music-note-beamed" viewBox="0 0 16 16">
   <path d="M6 13c0 1.105-1.12 2-2.5 2S1 14.105 1 13c0-1.104 1.12-2 2.5-2s2.5.896 2.5 2zm9-2c0 1.105-1.12 2-2.5 2s-2.5-.895-2.5-2 1.12-2 2.5-2 2.5.895 2.5 2z"/>
   <path fill-rule="evenodd" d="M14 11V2h1v9h-1zM6 3v10H5V3h1z"/>
   <path d="M5 2.905a1 1 0 0 1 .9-.995l8-.8a1 1 0 0 1 1.1.995V3L5 4V2.905z"/>
-</svg></a>
+</svg>*/}
+						<img src="guild.png" alt="Piano Technician Guild Logo" />
+                    </a>
 				</div>
 			</div>
 
@@ -111,7 +113,7 @@ function Home() {
 								<CardList
 					index=''
 					title='Action Regulation and Restoration'
-					body="Over time the felts, leather and wooden parts of the piano action wear down and decrease keyboard performance. Typically, regulating the action parts to their original specifications will make the keyboard play like new again. If you have a relatively new piano, this is especially important because the newer parts will 'break in' and need minor regulation. For older pianos a complete replacement of the worn action parts is appropriate."
+					body="Over time the felts, leather and wooden parts of the piano action wear down and decrease keyboard performance. Typically, regulating the action parts to their original specifications will make the keyboard play like new again. If you have a relatively new piano, this is especially important because the newer parts will 'break in' and need minor regulation. For older pianos a complete replacement of the worn action parts may be appropriate."
 					//Over time the felts, leather and wooden parts that make up the piano action wear down with use resulting in poor keyboard performance. In many cases regulating the action parts to their original specifications will bring the playability of the keyboard back to a like new condition. If you have a new piano that has been played for a year or two this is especially important because the newer parts will 'break in' and need minor regulation. In the case of older pianos a complete restoration of the action, replacing worn parts with new, is appropriate.
 					body2=''
 					ull=''
@@ -186,6 +188,7 @@ function Home() {
 					ull2='- Jordan Kitt’s Music (Washington DC)'
 					ull3='- Peabody Institute (Baltimore MD)'
 					ull4='- Denton, Cottier and Daniels'
+					ull5='- Dunkirk, Fredonia and Silver Creek Central Schools'
 					oll=''
 					oll2=''
 				></CardList>
