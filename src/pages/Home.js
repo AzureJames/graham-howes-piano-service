@@ -174,9 +174,9 @@ function Home() {
 				type=''
 				title='Experience'
 				summary='Graham Howes Piano Service brings a wealth of experience and knowledge to the job.'
-				summary2=''
+				summary2='Have questions about your piano needs? E-mail us at grahamhowes62@gmail.com'
 				src={Placeholder}
-				alt=''
+				alt='large piano'
 			/>
 			<div className='flex1200'>
 				<CardList
