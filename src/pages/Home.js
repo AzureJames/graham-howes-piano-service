@@ -24,7 +24,7 @@ function Home() {
 				<BannerCard
 					index=''
 					title='Graham Howes Piano Service'
-					body='“Serving the Musical Community for 40 Years”'
+					body='“Serving the Musical Community for over 40 Years”'
 					body2=''
 				></BannerCard>
 				{/* 
@@ -57,7 +57,7 @@ function Home() {
 			CURVY BANNER */}
 			<DevBanner
 				title='About'
-				tagline='(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc, and a Steinway Trained Technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.'
+				tagline='(bio pic here) Graham Howes RPT is a Registered Piano Technician with the Piano Technicians Guild Inc. and a Steinway trained technician. Graham Howes Piano Service specializes in top quality piano tuning and regulation, appraisals, and more.'
 				tagline2=''
 			></DevBanner>
 
@@ -99,7 +99,7 @@ function Home() {
 				<CardList
 					index=''
 					title='Concert Tuning and Voicing'
-					body="We have extensive experience with preparing pianos for live concerts and recording studio sessions.  Voicing, action regulation and concert tuning are a specialty. You can have confidence that your piano will be ready for performance."
+					body="We have extensive experience with preparing pianos for live concerts and recording studio sessions.  Voicing, action regulation and concert tuning are our specialty. You can have confidence that your piano will be ready for performance."
 					body2=''
 					ull=''
 					ull2=''

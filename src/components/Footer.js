@@ -26,10 +26,11 @@ Derby, NY 14047 */}
 							<p>
 								<a href='tel:+7168169480'  style={{color: "pink"}} >Cell: (716) 816-9480</a>
 							</p>
+							<p style={{color: "pink"}}><a href="mailto:grahamhowes62@gmail.com">Got Questions? Please e-mail grahamhowes62@gmail.com</a></p>
 							{/* <p>
 								<a href='mailto:1@gmail.com'>1@gmail.com</a>
 							</p> */}
-							<p>Web design by <a href='https://azurejames.com/portfolio/'>Azure James</a></p>
+							<p>Web design by <a href='https://azurejames.com/portfolio/' style={{color: "pink"}}>Azure James</a></p>
 						</div>
 						{/* <ul>
 							<li className='nav-item'>
