@@ -9,6 +9,7 @@ import FullPost from '../components/FullPost';
 import CurvySection from '../components/CurvySection';
 import HeroBanner from '../components/HeroBanner';
 import Placeholder from '../img/pexels-bryan-geraldo-586415.jpg';
+import PianoBoard from '../img/piano-board.jpg';
 import { InfiniteLoopSlider, Tag, shuffle, random } from '../components/InfiniteLoopSlider';
 import _button from '../scss/components/_button.scss';
 
@@ -220,7 +221,7 @@ function Home() {
 				></CardList>
 			</div>
 			<div className='flex1200'>
-				<img src={Placeholder} alt='piano' style={{maxWidth: '100vw'}}></img>
+				<img src={PianoBoard} alt='piano' style={{maxWidth: '100vw'}}></img>
 			</div>
 			<div className='flex1200'>
 
