@@ -19,7 +19,7 @@ import '../scss/pages/_home.scss';
 
 function Home() {
 	return (
-		<div className='home'>
+		<div className='home' style={{overflowX: "hidden"}}>
 			<div className='bg'>
 				<Navbar />
 				<BannerCard
