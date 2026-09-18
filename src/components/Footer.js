@@ -21,10 +21,10 @@ Derby, NY 14047 */}
 						</div>
 						<div>
 							<p>
-								<a href='tel:+7165627138' style={{color: "pink"}}>Phone: (716) 562-7138</a>
+								<a href='tel:+17165627138' style={{color: "pink"}}>Phone: (716) 562-7138</a>
 							</p>
 							<p>
-								<a href='tel:+7168169480'  style={{color: "pink"}} >Cell: (716) 816-9480</a>
+								<a href='tel:+17168169480'  style={{color: "pink"}} >Cell: (716) 816-9480</a>
 							</p>
 							<p style={{color: "white"}}>Got Questions? Please e-mail <a href="mailto:grahamhowes62@gmail.com" style={{color: "pink"}}>grahamhowes62@gmail.com</a></p>
 							{/* <p>
